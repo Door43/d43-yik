@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yik:home|Door43 (yik)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yik|d43-yik repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yik/archive/master.zip|d43-yik.zip]]
+
+**Recent Changes**
+{{changes>ns = yik}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yik|Ethnologue data]]
+
